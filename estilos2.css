@@ -1,0 +1,73 @@
+body{
+    font-size: 3em;
+    color: green;
+}
+/*
+#main .post p{
+    color: red;
+}
+
+p{
+    color: green;
+}
+
+div#main .post p{
+    color: blue;
+}
+
+body div#main .post p{
+    color: yellow;
+}
+
+.post-description{
+    color: red;
+}
+
+.product-description{
+    color: blue;
+}
+
+.small{
+    font-size:  .75em;
+}
+
+p.post-description{
+    color: red;
+}
+
+p{
+    color: green !important;
+}
+
+.post p.post-description{
+    color: blue;
+}*/
+h1{
+    color: red;
+}
+/* initial */
+/* inherit */
+span{
+    font-size: initial;
+}
+
+p{
+    color: blue;
+}
+a{
+    color: initial;
+}
+ul{
+    color: red;
+}
+li{
+    color: initial;
+}
+ul span{
+    font-size: inherit;
+}
+
+.last{
+    color: inherit;
+}
+
